@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 27 12:29:13 GMT+03:00 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016d-720d-895a-000009265be0 
+on database directory C:\Users\oleg.bolotov\IdeaProjects\Scala\from stg to ods\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4a833595 
+Loaded from file:/C:/Users/oleg.bolotov/.ivy2/cache/org.apache.derby/derby/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\oleg.bolotov\IdeaProjects\Scala\from stg to ods
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="auto_commit,from_kfk_to_stg,load_from_hdfs,load_to_db,readHive,stg_to_ods,tstScala,tstscala" />
+  </component>
+</project>
